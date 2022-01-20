@@ -4,7 +4,7 @@ echo "pressione enter e,aguarde"
 read enter
 apt install tar zip curl
 echo "agora é o desk."
-acho "isso pode demorar um pouco, tenha paciência"
+echo "isso pode demorar um pouco, tenha paciência"
 echo "se estiver pronto ou afim press enter.ou ctrl ^C para cancelar"
 read enter
 exec termux-setup-storage
