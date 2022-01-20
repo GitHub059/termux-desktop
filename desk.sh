@@ -4,7 +4,7 @@ echo "vamos começar a instalação,ok?"
 echo "pressione enter e,aguarde"
 read enter
 echo "########>"
-apt ins+tall tar zip curl
+apt install tar zip curl
 echo "########>"
 echo "agora é o desk."
 echo "isso pode demorar um pouco, tenha paciência"
