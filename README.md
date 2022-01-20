@@ -26,6 +26,20 @@ pkg install wget; wget https://raw.githubusercontent.com/GitHub059/termux-deskto
 
 
 
+#AQUI ESTÃO ALGUNS PRINTS
+
+![print](imagem1.jpg)
 
 
-![This is an image](imagem1.jpg)
+
+![print](imagem2.jpg)
+
+
+
+
+![print](imagem3.jpg)
+
+
+#ELE JÁ VEM COM PULSE AUDIO INSTALADO E CONFIGURADO
+#BASTA BAIXAR ELE NO UBUNTU 21 
+![print](imagem4.jpg)
