@@ -19,14 +19,14 @@ pkg install wget; wget https://raw.githubusercontent.com/GitHub059/termux-deskto
 #**-----------------------**
 
 
-#*pacotes adicionais "apt install xfce4-terminal firefox xfce4-taskmanager nano wget git vim"
+*pacotes adicionais "apt install xfce4-terminal firefox xfce4-taskmanager nano wget git vim"
   
   
 #**dica:** depois de finalizado, reinicie o termux e dê termux-setup-storage para acessar seu armazenamento interno
 
 
 
-#AQUI ESTÃO ALGUNS PRINTS
+*AQUI ESTÃO ALGUNS PRINTS*
 
 ![print](imagem1.jpg)
 
