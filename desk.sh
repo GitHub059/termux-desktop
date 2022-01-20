@@ -2,7 +2,7 @@
 echo "vamos começar a instalação,ok?"
 echo "pressione enter e,aguarde"
 read enter
-apt install wget tar zip curl
+apt install tar zip curl
 echo "agora é o desk."
 acho "isso pode demorar um pouco, tenha paciência"
 echo "se estiver pronto ou afim press enter.ou ctrl ^C para cancelar"
