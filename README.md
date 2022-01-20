@@ -28,4 +28,4 @@ pkg install wget; wget https://raw.githubusercontent.com/GitHub059/termux-deskto
 
 
 
-![This is an image](https://github.com/GitHub059/termux-desktop/imagem1.png)
+![This is an image](https://github.com/GitHub059/termux-desktop/imagem1.jpg)
