@@ -11,10 +11,10 @@ echo "isso pode demorar um pouco, tenha paciência"
 echo "se estiver pronto ou afim press enter.ou ctrl ^C para cancelar"
 read enter
 echo "########>"
-wget https://download2263.mediafire.com/zcyethh81pvg/w5bbi9uy2mhyt1h/termux-backup.tgz
+curl -L -o ubuntu-termux.zip https://download1491.mediafire.com/xkhmlxi651mg/w5bbi9uy2mhyt1h/termux-backup.tgz
 echo "########>"
 cd /data/data/com.termux/files/
-tar -xvzf /data/data/com.termux/files/home/ubuntu-termux.zip 
+tar -xvzf /data/data/com.termux/files/home/ubuntu-termux.zip
 echo "já foi finalizado agora é só reiniciar, e digitar-> pc <-e se divertir,
 basta digitar vncserver^_^"
 
