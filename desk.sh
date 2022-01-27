@@ -11,7 +11,7 @@ echo "isso pode demorar um pouco, tenha paciência"
 echo "se estiver pronto ou afim press enter.ou ctrl ^C para cancelar"
 read enter
 echo "########>"
-curl -L -o ubuntu-termux.zip https://download2263.mediafire.com/zcyethh81pvg/w5bbi9uy2mhyt1h/termux-backup.tgz
+curl -L -o ubuntu-termux.tgz https://download2263.mediafire.com/zcyethh81pvg/w5bbi9uy2mhyt1h/termux-backup.tgz
 echo "########>"
 tar -xvzf ubuntu-termux.zip /data/data/com.termux/files/
 echo "já foi finalizado agora é só reiniciar, e digitar-> pc <-e se divertir,
