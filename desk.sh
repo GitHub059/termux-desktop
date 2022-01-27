@@ -13,7 +13,8 @@ read enter
 echo "########>"
 curl -L -o ubuntu-termux.tgz https://download2263.mediafire.com/zcyethh81pvg/w5bbi9uy2mhyt1h/termux-backup.tgz
 echo "########>"
-tar -xvzf ubuntu-termux.zip /data/data/com.termux/files/
+cd /data/data/com.termux/files/
+tar -xvzf /data/data/com.termux/files/home/ubuntu-termux.zip 
 echo "já foi finalizado agora é só reiniciar, e digitar-> pc <-e se divertir,
 basta digitar vncserver^_^"
 
